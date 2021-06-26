@@ -1,0 +1,926 @@
+w porządku	okay
+okay	w porządku
+wszystko	everything
+everything	wszystko
+znaczy (co to znaczy _)	means (what does _ mean)
+means (what does _ mean)	znaczy (co to znaczy _)
+jak się mówi po polsku _	how do you say _ in polish
+how do you say _ in polish	jak się mówi po polsku _
+uwaga	attention
+attention	uwaga
+ćwiczenia	exercises
+exercises	ćwiczenia
+pozostałe	remaining
+remaining	pozostałe
+rozdział	chapter
+chapter	rozdział
+zeszyt	workbook
+workbook	zeszyt
+języka	language
+language	języka
+miło mi	pleased to meet you
+pleased to meet you	miło mi
+mnie również	me too / likewise
+me too / likewise	mnie również
+I am named	nazywam się
+nazywam się	I am named
+Jak masz na imię?	What is your name?
+What is your name?	Jak masz na imię?
+Proszę powtórzyć	Please repeat
+Please repeat	Proszę powtórzyć
+Proszę przeliterować	Please spell
+Please spell	Proszę przeliterować
+Proszę przeczytać	Please read
+Please read	Proszę przeczytać
+Proszę napisać	Please write
+Please write	Proszę napisać
+Co to znaczy 'word'?	What is the meaning of 'word'?
+What is the meaning of 'word'?	Co to znaczy 'word'?
+Skąd jestes?	Where are you from?
+Where are you from?	Skąd jestes?
+Co słychać?	What's up?
+What's up?	Co słychać?
+Co nowego?	What's new?
+What's new?	Co nowego?
+A u ciebie?	And you (polite)?
+And you (polite)?	A u ciebie?
+Wszystko swietnie	Everything is great
+Everything is great	Wszystko swietnie
+Nic nowego	Nothing new
+Nothing new	Nic nowego
+Po staremu	Same old
+Same old	Po staremu
+Wszystko w porządku	Everything is okay
+Everything is okay	Wszystko w porządku
+Gdzie mieszkasz?	Where do you live?
+Where do you live?	Gdzie mieszkasz?
+I live in London	Mieszkam w Londynie
+Mieszkam w Londynie	I live in London
+I am from England	Jestem z Anglii
+Jestem z Anglii	I am from England
+On gra na gitarze	He plays on the guitar
+He plays on the guitar	On gra na gitarze
+Uczysz się polskiego?	Why are you studying polish?
+Why are you studying polish?	Uczysz się polskiego?
+żeby (pracować)	in order to (work)
+in order to (work)	żeby (pracować)
+ołowek	pencil
+pencil	ołowek
+rzeczownik	noun
+noun	rzeczownik
+rodzaje	types
+types	rodzaje
+Francuski	French
+French	Francuski
+Znam język hiszpański	I know spanish
+I know spanish	Znam język hiszpański
+Znam język angielski	I know english
+I know english	Znam język angielski
+Znam język polski	I know polish
+I know polish	Znam język polski
+Znam język włoski	I know italian
+I know italian	Znam język włoski
+Znam język niemiecki	I know german
+I know german	Znam język niemiecki
+Znam język szwedzki	I know swedish
+I know swedish	Znam język szwedzki
+po francusku	french
+french	po francusku
+po hiszpańsku	spanish
+spanish	po hiszpańsku
+angielsku	english
+english	angielsku
+włosku	italian
+italian	włosku
+niemiecku	german
+german	niemiecku
+szwedzku	swedish
+swedish	szwedzku
+żart	joke
+joke	żart
+masz rację	you're right
+you're right	masz rację
+słowo	word
+word	słowo
+tylko	only
+only	tylko
+cieszę się	I am pleased
+I am pleased	cieszę się
+zadanie domowe	homework
+homework	zadanie domowe
+kończe	I finish
+I finish	kończe
+kończyć	to finish
+to finish	kończyć
+leniwy	lazy
+lazy	leniwy
+gruby	fat
+fat	gruby
+szczupły	thin
+thin	szczupły
+średniego wzrostu	average height
+average height	średniego wzrostu
+przystojny	handsome
+handsome	przystojny
+zdrowa	healthy
+healthy	zdrowa
+chora	sick
+sick	chora
+przy okazji	by the way
+by the way	przy okazji
+zaskoczony	surprised
+surprised	zaskoczony
+niestety	unfortunately
+unfortunately	niestety
+przerwa	breaktime / intermission
+breaktime / intermission	przerwa
+ćwiczę	I practise
+I practise	ćwiczę
+urzędnik	an official
+an official	urzędnik
+informatyk	IT engineer
+IT engineer	informatyk
+zdolna	talented
+talented	zdolna
+malarz	painter
+painter	malarz
+zawodu	profession
+profession	zawodu
+umieć (umiem, umiesz..)	to be able
+to be able	umieć (umiem, umiesz..)
+prawie	almost
+almost	prawie
+malarstwem	paintings
+paintings	malarstwem
+na przykład	for example
+for example	na przykład
+czarna magia	black magic
+black magic	czarna magia
+sztuką	art
+art	sztuką
+zdjęcia	photos
+photos	zdjęcia
+Wybrać	To complete
+To complete	Wybrać
+Opowiedzieć	To tell
+To tell	Opowiedzieć
+Malować	To paint
+To paint	Malować
+Nudzić	To be bored
+To be bored	Nudzić
+Oglądać	To watch
+To watch	Oglądać
+Gospodarz	Host
+Host	Gospodarz
+Zdjęcia	Photos
+Photos	Zdjęcia
+Emeryt	Pensioner
+Pensioner	Emeryt
+Muzyk	Musician
+Musician	Muzyk
+Targu	The market
+The market	Targu
+Galerii handlowej	Mall
+Mall	Galerii handlowej
+Sama	Alone
+Alone	Sama
+punkt	point
+point	punkt
+wygrałem!	I won!
+I won!	wygrałem!
+na silownie	to the gym
+to the gym	na silownie
+chodzić na spacery	to go on a walk
+to go on a walk	chodzić na spacery
+jeździć konno	to ride a horse
+to ride a horse	jeździć konno
+podróżować	to travel
+to travel	podróżować
+zakupy	shopping
+shopping	zakupy
+śpiewać	to sing
+to sing	śpiewać
+obcych	foreign
+foreign	obcych
+biegać	to run
+to run	biegać
+pływać	to swim
+to swim	pływać
+jeździć na rolkach	to go rollerskating
+to go rollerskating	jeździć na rolkach
+tworzyć	to create
+to create	tworzyć
+głównie	mainly
+mainly	głównie
+obejrzeć	to see
+to see	obejrzeć
+nartach	skiing
+skiing	nartach
+kawiarnia	cafe
+cafe	kawiarnia
+Uprawiać	To play (sports)
+To play (sports)	Uprawiać
+Free	Wolny
+Wolny	Free
+Zajęty	Busy
+Busy	Zajęty
+Kosztować	To cost
+To cost	Kosztować
+Płacić	To pay
+To pay	Płacić
+Polecać	To recommend
+To recommend	Polecać
+Pieniądze	Money
+Money	Pieniądze
+Kantor	Currency exchange
+Currency exchange	Kantor
+Biernik	Accusative
+Accusative	Biernik
+Przymiotnik	Adjective
+Adjective	Przymiotnik
+Zgadzam się	I agree
+I agree	Zgadzam się
+Miłego wieczoru	Have a pleasant evening
+Have a pleasant evening	Miłego wieczoru
+Nawzajem!	Likewise!
+Likewise!	Nawzajem!
+1 Zlot/Grosz...	Złoty / Grosz
+Złoty / Grosz	1 Zlot/Grosz...
+2,3,4 Zlot/Grosz...	Złote / Grosze
+Złote / Grosze	2,3,4 Zlot/Grosz...
+5,6,7... Zlot/Grosz...	Złotych / Groszy
+Złotych / Groszy	5,6,7... Zlot/Grosz...
+Mint chewing gum	Miętową guma do żucia
+Miętową guma do żucia	Mint chewing gum
+Two hundred	Dwieście
+Dwieście	Two hundred
+Three hundred	Trzysta
+Trzysta	Three hundred
+Czterysta	Four hundred
+Four hundred	Czterysta
+Pięćset	Five hundred
+Five hundred	Pięćset
+Sześćset	Six hundred
+Six hundred	Sześćset
+Siedemset	Seven hundred
+Seven hundred	Siedemset
+Osiemset	Eight hundred
+Eight hundred	Osiemset
+Dziewięćset	Nine hundred
+Nine hundred	Dziewięćset
+Tysiąc	One thousand
+One thousand	Tysiąc
+Piekarnia	Bakery
+Bakery	Piekarnia
+Odzież	Clothing
+Clothing	Odzież
+Biżuteria	Jewellery shop
+Jewellery shop	Biżuteria
+Obuwie	Footwear
+Footwear	Obuwie
+Fryzjer	Hairdresser
+Hairdresser	Fryzjer
+Biuro podróży	Travel agent
+Travel agent	Biuro podróży
+Kwiaciarnia	Florist
+Florist	Kwiaciarnia
+Apteka	Pharmacy
+Pharmacy	Apteka
+Pralnia	Laundry
+Laundry	Pralnia
+Pamięci	Memory
+Memory	Pamięci
+Aparat	Camera
+Camera	Aparat
+Statyw	Tripod
+Tripod	Statyw
+Zaspany	Sleepy (morning)
+Sleepy (morning)	Zaspany
+Chętnie	Gladly
+Gladly	Chętnie
+Mieć ochotę na	Feel like (I fancy)
+Feel like (I fancy)	Mieć ochotę na
+Bułka	Bread roll
+Bread roll	Bułka
+Miód	Honey
+Honey	Miód
+Szynka	Pork ham
+Pork ham	Szynka
+Kiełbasa	Sausage
+Sausage	Kiełbasa
+Płatki śniadaniowe	Cereal
+Cereal	Płatki śniadaniowe
+Woleć (wolę, wolisz)	To prefer
+To prefer	Woleć (wolę, wolisz)
+Tłusta	Fatty
+Fatty	Tłusta
+Wędlina	Meats
+Meats	Wędlina
+Narzędnik	Instrumental
+Instrumental	Narzędnik
+Malinowy	Raspberry
+Raspberry	Malinowy
+Nagle	Suddenly
+Suddenly	Nagle
+Zwykle	Usually
+Usually	Zwykle
+Kiszony	Pickled
+Pickled	Kiszony
+Więc	So, therefore
+So, therefore	Więc
+Jeśli	If
+If	Jeśli
+Grzanka	Toast
+Toast	Grzanka
+Orzechów	Nuts
+Nuts	Orzechów
+Lodem	Ice
+Ice	Lodem
+Wytrawne wino	Dry wine
+Dry wine	Wytrawne wino
+Wiśniowa	Cherry
+Cherry	Wiśniowa
+Porzeczka	Currant
+Currant	Porzeczka
+Śliwka	Plum
+Plum	Śliwka
+Brzoskwinia	Peach
+Peach	Brzoskwinia
+Winogrona	Grape
+Grape	Winogrona
+Arbuz	Watermelon
+Watermelon	Arbuz
+Jagody	Blueberry
+Blueberry	Jagody
+Por	Leek
+Leek	Por
+Seler	Celery
+Celery	Seler
+Pietruszka	Parsnip
+Parsnip	Pietruszka
+Czosnek	Garlic
+Garlic	Czosnek
+Kalafior	Cauliflower
+Cauliflower	Kalafior
+Rzodkiewka	Radish
+Radish	Rzodkiewka
+Kapusta	Cabbage
+Cabbage	Kapusta
+Fasola	Bean
+Bean	Fasola
+Groszek	Peas
+Peas	Groszek
+Kukurydza	Corn
+Corn	Kukurydza
+Okrągły	Round
+Round	Okrągły
+Owalny	Oval
+Oval	Owalny
+Miękka	Soft
+Soft	Miękka
+Twardy	Hard
+Hard	Twardy
+Dojrzały	Mature
+Mature	Dojrzały
+Pieczony	Baked
+Baked	Pieczony
+Suszony	Dried
+Dried	Suszony
+Doniczka	Pot
+Pot	Doniczka
+Łosoś	Salmon
+Salmon	Łosoś
+Węgorz	Eel
+Eel	Węgorz
+Dorsz	Cod
+Cod	Dorsz
+Śledź	Herring
+Herring	Śledź
+Jarzynowa	Vegetable
+Vegetable	Jarzynowa
+Doniczce	Plant pot
+Plant pot	Doniczce
+Mniej	Less
+Less	Mniej
+W takim razie..	In that case..
+In that case..	W takim razie..
+gotowana	cooked
+cooked	gotowana
+potrawa	dish / cuisine
+dish / cuisine	potrawa
+pieczona	baked
+baked	pieczona
+wędrona	smoked
+smoked	wędrona
+duszona	stewed
+stewed	duszona
+smażona	fried
+fried	smażona
+zdrowsze	healthier
+healthier	zdrowsze
+uwielbiam	I love (not kocham)
+I love (not kocham)	uwielbiam
+przyprawa	spices
+spices	przyprawa
+pięknie pachnie	it smells beautiful
+it smells beautiful	pięknie pachnie
+najpierw	first (not pierwszy)
+first (not pierwszy)	najpierw
+dodać	to add
+to add	dodać
+mrożonki	frozen food
+frozen food	mrożonki
+słodycze	sweets
+sweets	słodycze
+napoje	drinks
+drinks	napoje
+nabiał	dairy
+dairy	nabiał
+pieczywo	bread (goods)
+bread (goods)	pieczywo
+zwykle	usually
+usually	zwykle
+palec	finger
+finger	palec
+zarezerwować	to reserve
+to reserve	zarezerwować
+zapraszam	I invite
+I invite	zapraszam
+ułożyć	to assemble
+to assemble	ułożyć
+Pikantny	Spicy
+Spicy	Pikantny
+dodatki	extras
+extras	dodatki
+co podać	what can I get you?
+what can I get you?	co podać
+a co do picia?	and what to drink?
+and what to drink?	a co do picia?
+spróbować	to try / try it
+to try / try it	spróbować
+chudy	thin
+thin	chudy
+mocny (kawa)	strong (coffee)
+strong (coffee)	mocny (kawa)
+łagodny	mild
+mild	łagodny
+ostry	sharp (taste)
+sharp (taste)	ostry
+kwaśny	sour
+sour	kwaśny
+gorzki	bitter
+bitter	gorzki
+surowy	raw
+raw	surowy
+chłodny	cool (temperature)
+cool (temperature)	chłodny
+słony	salty
+salty	słony
+kartą czy gotówką?	card or cash?
+card or cash?	kartą czy gotówką?
+takie sobie	so-so
+so-so	takie sobie
+dopełniacz	genitive
+genitive	dopełniacz
+śmietana	cream
+cream	śmietana
+wyśmienity	excellent
+excellent	wyśmienity
+mielony	ground (beef)
+ground (beef)	mielony
+uszkami	ears
+ears	uszkami
+dish / cuisine	danie
+danie	dish / cuisine
+zamawiać	to order (something)
+to order (something)	zamawiać
+okropny	awful
+awful	okropny
+żonaty	married (male)
+married (male)	żonaty
+mężatka	married (female)
+married (female)	mężatka
+divorced	rozwiedziony
+rozwiedziony	divorced
+żyje	alive
+alive	żyje
+rodzeństwo	siblings
+siblings	rodzeństwo
+rozmawiać	to talk
+to talk	rozmawiać
+powiedzieć	to tell
+to tell	powiedzieć
+kawalerem	bachelor
+bachelor	kawalerem
+panna	virgin / spinster
+virgin / spinster	panna
+urlop	leave / vacation
+leave / vacation	urlop
+Pen / Feather	Pióro
+Pióro	Pen / Feather
+Słońce	Sun
+Sun	Słońce
+Chyba	I guess
+I guess	Chyba
+Szkoda	Shame
+Shame	Szkoda
+przekąska	snack
+snack	przekąska
+I try	próbuję
+próbuję	I try
+teczka	folder
+folder	teczka
+pójść	to go (not iść)
+to go (not iść)	pójść
+masz ochotę pojść na kawę?	Do you fancy going for coffee?
+Do you fancy going for coffee?	masz ochotę pojść na kawę?
+może pójdziemy do klubu?	Maybe we can go to the club?
+Maybe we can go to the club?	może pójdziemy do klubu?
+dziękuję za zaproszenie	Thanks for the invite
+Thanks for the invite	dziękuję za zaproszenie
+ze mną	with me
+with me	ze mną
+z kim	with whom
+with whom	z kim
+z nami	with us
+with us	z nami
+z tobą	with you
+with you	z tobą
+z nią	with her
+with her	z nią
+z nim	with him
+with him	z nim
+z wami	with you (pl)
+with you (pl)	z wami
+z nimi	with them
+with them	z nimi
+To the pub	Do pubu
+Do pubu	To the pub
+Iść na kawę	To go for coffee
+To go for coffee	Iść na kawę
+umawiać	to make an appointment
+to make an appointment	umawiać
+wystawe	exhibition
+exhibition	wystawe
+randka	date (romantic)
+date (romantic)	randka
+dokąd	to where
+to where	dokąd
+kwadrans	quarter
+quarter	kwadrans
+tak samo jak	as well as
+as well as	tak samo jak
+warsztat	workshop
+workshop	warsztat
+zostać	to stay
+to stay	zostać
+ewentualnie	possibly
+possibly	ewentualnie
+wstawać (wstaję, wstajesz)	to get up
+to get up	wstawać (wstaję, wstajesz)
+wcześnie	early
+early	wcześnie
+brać (biorę, bierzesz)	to take
+to take	brać (biorę, bierzesz)
+wracać (wracam, wracasz)	to come back / return
+to come back / return	wracać (wracam, wracasz)
+jak wygląda	look like
+look like	jak wygląda
+wstyd	shame
+shame	wstyd
+odbierać	to receive
+to receive	odbierać
+zasięg	range
+range	zasięg
+odpisywać	to write back
+to write back	odpisywać
+szczęśliwy	happy
+happy	szczęśliwy
+pomagać	to help
+to help	pomagać
+właśnie	just
+just	właśnie
+jednocześnie	at the same time
+at the same time	jednocześnie
+rabat	discount
+discount	rabat
+kilka	a few
+a few	kilka
+spędzać	to spend
+to spend	spędzać
+temu	ago
+ago	temu
+w zeszłym	in the last
+in the last	w zeszłym
+(?) tydień / miesiąc / rok	(1) week / month / year
+(1) week / month / year	(?) tydień / miesiąc / rok
+(?) dni / tygodnie / miesiące / lata	2, 3, 4 days, weeks, months, years
+2, 3, 4 days, weeks, months, years	(?) dni / tygodnie / miesiące / lata
+(?) dni / tygodni / miesięcy / lat	5,6,7 days, weeks, months, years
+5,6,7 days, weeks, months, years	(?) dni / tygodni / miesięcy / lat
+to worry	martwić się
+martwić się	to worry
+zobaczyć	to see (not widzieć)
+to see (not widzieć)	zobaczyć
+zadowolony	content, satisfied
+content, satisfied	zadowolony
+padał deszcz	It rained
+It rained	padał deszcz
+miałem	I had (masc)
+I had (masc)	miałem
+mieli	They (masc) had
+They (masc) had	mieli
+jadłem	I ate (masc)
+I ate (masc)	jadłem
+jedliście	You (masc, pl) ate
+You (masc, pl) ate	jedliście
+poszedłem	I went (masc)
+I went (masc)	poszedłem
+Poszłaś	You (fem) went
+You (fem) went	Poszłaś
+użyć	To use
+To use	użyć
+światło	light (singular)
+light (singular)	światło
+światła	lights
+lights	światła
+schody	stairs
+stairs	schody
+krzyż	cross
+cross	krzyż
+krzyżówka	crossword
+crossword	krzyżówka
+skrzyżowanie	intersection / crossroad
+intersection / crossroad	skrzyżowanie
+zwiedzać	to visit
+to visit	zwiedzać
+wygrać	to win
+to win	wygrać
+daleko	far
+far	daleko
+blisko	near
+near	blisko
+rzeka	river
+river	rzeka
+pomnik	statue
+statue	pomnik
+ratusz	town hall
+town hall	ratusz
+przystanek	bus stop
+bus stop	przystanek
+na wprost	straight (ahead)
+straight (ahead)	na wprost
+po prawej	on the right
+on the right	po prawej
+po lewej	on the left
+on the left	po lewej
+prosto	straight
+straight	prosto
+w lewo	to the left
+to the left	w lewo
+w prawo	on the right
+on the right	w prawo
+na rogu	on the corner
+on the corner	na rogu
+na zewnątrz	outside
+outside	na zewnątrz
+naprzeciwko	opposite
+opposite	naprzeciwko
+na górze	on top
+on top	na górze
+na dole	on the bottom
+on the bottom	na dole
+w środku	in the middle
+in the middle	w środku
+dojść	to come
+to come	dojść
+przejść	to go through
+to go through	przejść
+skręcić	to turn
+to turn	skręcić
+zaraz potem	just after
+just after	zaraz potem
+siedzieć	to sit
+to sit	siedzieć
+powtórzyć	to repeat
+to repeat	powtórzyć
+pasuje (ci)	Fits (you)
+Fits (you)	pasuje (ci)
+poznać	To meet / get to know
+To meet / get to know	poznać
+moim zdaniem	In my opinion
+In my opinion	moim zdaniem
+słoik	jar
+jar	słoik
+paczka	pack
+pack	paczka
+puszka	tin
+tin	puszka
+plasterek	a slice
+a slice	plasterek
+zapałki	matches
+matches	zapałki
+bochenek	loaf
+loaf	bochenek
+kolejka	queue
+queue	kolejka
+wybierać się	to be going
+to be going	wybierać się
+nie cierpieć	hate
+hate	nie cierpieć
+zmyślać	to make up
+to make up	zmyślać
+zależec od	to depend on
+to depend on	zależec od
+poza tym	otherwise
+otherwise	poza tym
+bać się	to be afraid of
+to be afraid of	bać się
+prośbać	to ask / request
+to ask / request	prośbać
+wprowadzić się	to move in
+to move in	wprowadzić się
+każdy	every
+every	każdy
+co dwa dni	every two days
+every two days	co dwa dni
+mniej więcej	more or less
+more or less	mniej więcej
+to zależy	it depends
+it depends	to zależy
+i tak dalej	etcetera
+etcetera	i tak dalej
+trzymać	to keep
+to keep	trzymać
+brać	to take
+to take	brać
+zabierać	to take away
+to take away	zabierać
+przynieść	to bring
+to bring	przynieść
+wreszcie	finally
+finally	wreszcie
+pocztówka	postcard
+postcard	pocztówka
+znaczek	stamp
+stamp	znaczek
+listonosz	postman
+postman	listonosz
+koperta	envelope
+envelope	koperta
+skrzynka pocztowa	mailbox
+mailbox	skrzynka pocztowa
+wszędzie	everywhere
+everywhere	wszędzie
+nie ma sprawy	not an issue
+not an issue	nie ma sprawy
+przykro mi	I'm sorry
+I'm sorry	przykro mi
+z przyjemnością	with pleasure
+with pleasure	z przyjemnością
+prośba	an ask / request
+an ask / request	prośba
+Nie ma sprawy/problemu	No big deal / not a problem
+No big deal / not a problem	Nie ma sprawy/problemu
+Przykro mi, ale nie	I'm sorry, but no
+I'm sorry, but no	Przykro mi, ale nie
+Czy mógłbyś mi pomóc?	Could you help me?
+Could you help me?	Czy mógłbyś mi pomóc?
+Czy pomożesz mi?	Will you help me?
+Will you help me?	Czy pomożesz mi?
+Czy możesz mi pomóc?	Can you help me?
+Can you help me?	Czy możesz mi pomóc?
+Would Miss help me?	Czy mogłaby mi pani pomóc?
+Czy mogłaby mi pani pomóc?	Would Miss help me?
+Mam do ciebie prośbę, czy możesz...	I have a request for you, can you..
+I have a request for you, can you..	Mam do ciebie prośbę, czy możesz...
+Czy byłby pan tak uprzejmy i...	Would Sir be so kind and..
+Would Sir be so kind and..	Czy byłby pan tak uprzejmy i...
+uprzejmy	kind
+kind	uprzejmy
+Chciałem cię prosić o pomoc	I wanted to ask you for help
+I wanted to ask you for help	Chciałem cię prosić o pomoc
+przedłużyło	extended
+extended	przedłużyło
+pewnie	sure
+sure	pewnie
+do ciebie	to you
+to you	do ciebie
+do niego	to him
+to him	do niego
+do nich	to them
+to them	do nich
+do niej	to her
+to her	do niej
+do mnie	to me
+to me	do mnie
+to you (pl)	do was
+do was	to you (pl)
+to us	do nas
+do nas	to us
+do was wszystkich	to you all
+to you all	do was wszystkich
+bez skutku	with no result
+with no result	bez skutku
+but / however	jednak
+jednak	but / however
+wszyscy	everybody
+everybody	wszyscy
+uśmiechać się	to smile
+to smile	uśmiechać się
+nikt	no one
+no one	nikt
+lepiej	better
+better	lepiej
+przez	during
+during	przez
+zacząć	to start
+to start	zacząć
+dostać	to get
+to get	dostać
+przyjaciel	friend (masc)
+friend (masc)	przyjaciel
+przyjaciółka	friend (fem)
+friend (fem)	przyjaciółka
+około	around / about
+around / about	około
+wiele	many (not dużo)
+many (not dużo)	wiele
+czuć	To feel
+To feel	czuć
+pochmurny	cloudy
+cloudy	pochmurny
+różne	various
+various	różne
+mróz	frost
+frost	mróz
+to shine	świecić
+świecić	to shine
+góry	mountains
+mountains	góry
+wiać	to blow
+to blow	wiać
+wiatr	wind
+wind	wiatr
+ciśnienie	pressure
+sprawdzić	to check
+to check	sprawdzić
+mgła	fog
+fog	mgła
+powyżej	above
+above	powyżej
+poniżej	below
+below	poniżej
+pojechać	to go (completed)
+to go (completed)	pojechać
+łódka	boat, dinghy
+boat, dinghy	łódka
+z przyjaciółmi	with friends
+with friends	z przyjaciółmi
+skromny	modest
+modest	skromny
+ostrożny	careful
+careful	ostrożny
+chodzić na spacer	to go on a walk
+to go on a walk	chodzić na spacer
+nastrój	mood
+mood	nastrój
+rośliny	plants
+plants	rośliny
+pressure	ciśnienie
+Kto / Co?	Who / What (Mianownik)
+Who / What (Mianownik)	Kto / Co?
+Kogo / Co?	To who / to what? (Biernik)
+To who / to what? (Biernik)	Kogo / Co?
+Kim / Czym?	With whom / what? (Narzędnik)
+With whom / what? (Narzędnik)	Kim / Czym?
+Kogo / Czego?	Who's / What's? (Dopełniać)
+Who's / What's? (Dopełniać)	Kogo / Czego?
+czasem	sometimes
+sometimes	czasem
+każdy	each
+each	każdy
+pieszo	by foot
+by foot	pieszo
+most	bridge
+bridge	most
+modny	trendy
+trendy	modny
+marudna	grumpy
+grumpy	marudna
+plotki	gossip
+gossip	plotki
+strasznie	awful (not okropny)
+awful (not okropny)	strasznie
+co się dzieje?	Something wrong?
+Something wrong?	co się dzieje?
+beznadziejna	hopeless
+hopeless	beznadziejna
+wszystko jedno	I don't mind / it's all the same to me
+I don't mind / it's all the same to me	wszystko jedno
+nie mam zdania	I don't have a preference
+I don't have a preference	nie mam zdania
+upał	heat
+heat	upał
+korek / korki	traffic jam(s)
+traffic jam(s)	korek / korki

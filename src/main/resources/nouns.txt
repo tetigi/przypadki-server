@@ -1,0 +1,1125 @@
+man	mężczyzna
+mężczyzna	man
+woman	kobieta
+kobieta	woman
+apple	jabłko
+jabłko	apple
+girl	dziewczynka
+dziewczynka	girl
+boy	chłopiec
+chłopiec	boy
+milk	mleko
+mleko	milk
+bread	chleb
+chleb	bread
+water	woda
+woda	water
+child	dziecko
+dziecko	child
+cookie	ciasteczko
+ciasteczko	cookie
+reverence, honor/honour	cześć
+cześć	reverence, honor/honour
+day	dzień
+dzień	day
+night	noc
+noc	night
+vision, sight, visit	widzenie
+widzenie	vision, sight, visit
+horse	koń
+koń	horse
+cat	kot
+kot	cat
+duck	kaczka
+kaczka	duck
+elephant	słoń
+słoń	elephant
+animal	zwierzę
+zwierzę	animal
+dog	pies
+pies	dog
+bird	ptak
+ptak	bird
+fish	ryba
+ryba	fish
+mouse	mysz
+mysz	mouse
+lion	lew
+lew	lion
+crab	krab
+krab	crab
+tiger	tygrys
+tygrys	tiger
+spider	pająk
+pająk	spider
+wine	wino
+wino	wine
+tea	herbata
+herbata	tea
+egg	jajko
+jajko	egg
+coffee	kawa
+kawa	coffee
+dinner, supper	kolacja
+kolacja	dinner, supper
+breakfast	śniadanie
+śniadanie	breakfast
+food	jedzenie
+jedzenie	food
+lunch	obiad
+obiad	lunch
+meal	posiłek
+posiłek	meal
+fruit	owoc
+owoc	fruit
+juice	sok
+sok	juice
+soup	zupa
+zupa	soup
+sandwich	kanapka
+kanapka	sandwich
+meat	mięso
+mięso	meat
+cheese	ser
+ser	cheese
+tomato	pomidor
+pomidor	tomato
+human, man	człowiek
+człowiek	human, man
+vegetable	warzywo
+warzywo	vegetable
+coat	płaszcz
+płaszcz	coat
+dress	sukienka
+sukienka	dress
+shirt	koszula
+koszula	shirt
+clothes	ubranie
+ubranie	clothes
+skirt	spódnica
+spódnica	skirt
+shoe	but
+but	shoe
+hat	kapelusz
+kapelusz	hat
+pants/trousers	spodnie
+spodnie	pants/trousers
+sweatshirt, hoodie	bluza
+bluza	sweatshirt, hoodie
+cap	czapka
+czapka	cap
+underpants, pants	majtki
+majtki	underpants, pants
+sock	skarpeta
+skarpeta	sock
+jacket	kurtka
+kurtka	jacket
+book	książka
+książka	book
+letter	list
+list	letter
+voice, vote	głos
+głos	voice, vote
+mom/mum	mama
+mama	mom/mum
+son	syn
+syn	son
+daughter	córka
+córka	daughter
+brother	brat
+brat	brother
+sister	siostra
+siostra	sister
+dad	tata
+tata	dad
+father	ojciec
+ojciec	father
+family	rodzina
+rodzina	family
+husband	mąż
+mąż	husband
+wife	żona
+żona	wife
+aunt	ciocia
+ciocia	aunt
+uncle	wujek
+wujek	uncle
+grandfather	dziadek
+dziadek	grandfather
+parent	rodzic
+rodzic	parent
+marriage	małżeństwo
+małżeństwo	marriage
+grandmother	babcia
+babcia	grandmother
+siblings	rodzeństwo
+rodzeństwo	siblings
+house, home	dom
+dom	house, home
+school	szkoła
+szkoła	school
+music	muzyka
+muzyka	music
+color/colour	kolor
+kolor	color/colour
+question	pytanie
+pytanie	question
+answer	odpowiedź
+odpowiedź	answer
+table	stół
+stół	table
+bowl	miska
+miska	bowl
+spoon	łyżka
+łyżka	spoon
+chair	krzesło
+krzesło	chair
+bottle	butelka
+butelka	bottle
+mirror	lustro
+lustro	mirror
+computer	komputer
+komputer	computer
+radio	radio
+radio	radio
+television, TV set	telewizor
+telewizor	television, TV set
+room, peace	pokój
+pokój	room, peace
+bed	łóżko
+łóżko	bed
+clock	zegar
+zegar	clock
+telephone, phone	telefon
+telefon	telephone, phone
+battery	bateria
+bateria	battery
+watch	zegarek
+zegarek	watch
+screen	ekran
+ekran	screen
+cellphone, mobile	komórka
+komórka	cellphone, mobile
+(eye)glasses	okulary
+okulary	(eye)glasses
+lamp	lampa
+lampa	lamp
+window	okno
+okno	window
+sofa	sofa
+sofa	sofa
+desk	biurko
+biurko	desk
+door	drzwi
+drzwi	door
+(bed)sheet	prześcieradło
+prześcieradło	(bed)sheet
+pillow	poduszka
+poduszka	pillow
+sponge	gąbka
+gąbka	sponge
+bath(tub)	wanna
+wanna	bath(tub)
+shower	prysznic
+prysznic	shower
+paste	pasta
+pasta	paste
+tooth	ząb
+ząb	tooth
+brush	szczoteczka
+szczoteczka	brush
+soap	mydło
+mydło	soap
+razor, shaver	golarka
+golarka	razor, shaver
+bag	torba
+torba	bag
+pool	basen
+basen	pool
+basket	kosz
+kosz	basket
+box	pudełko
+pudełko	box
+umbrella	parasol
+parasol	umbrella
+wallet	portfel
+portfel	wallet
+carpet	dywan
+dywan	carpet
+floor	podłoga
+podłoga	floor
+cooker, stove	kuchenka
+kuchenka	cooker, stove
+roof	dach
+dach	roof
+key	klucz
+klucz	key
+thing	rzecz
+rzecz	thing
+wardrobe, cabinet	szafa
+szafa	wardrobe, cabinet
+wall	ściana
+ściana	wall
+knife	nóż
+nóż	knife
+glass	szklanka
+szklanka	glass
+mug	kubek
+kubek	mug
+plate	talerz
+talerz	plate
+(frying) pan	patelnia
+patelnia	(frying) pan
+fork	widelec
+widelec	fork
+refrigerator, fridge	lodówka
+lodówka	refrigerator, fridge
+magazine	czasopismo
+czasopismo	magazine
+paper	papier
+papier	paper
+newspaper	gazeta
+gazeta	newspaper
+scissors	nożyczki
+nożyczki	scissors
+leaf, card	kartka
+kartka	leaf, card
+armchair	fotel
+fotel	armchair
+piece	kawałek
+kawałek	piece
+machine	maszyna
+maszyna	machine
+flag	flaga
+flaga	flag
+bell	dzwon
+dzwon	bell
+ceiling	sufit
+sufit	ceiling
+object, thing; subject	przedmiot
+przedmiot	object, thing; subject
+blanket	koc
+koc	blanket
+morning	rano
+rano	morning
+time	czas
+czas	time
+noon, south	południe
+południe	noon, south
+tomorrow	jutro
+jutro	tomorrow
+calendar	kalendarz
+kalendarz	calendar
+Monday	poniedziałek
+poniedziałek	Monday
+Tuesday	wtorek
+wtorek	Tuesday
+Wednesday	środa
+środa	Wednesday
+Thursday	czwartek
+czwartek	Thursday
+Friday	piątek
+piątek	Friday
+Saturday	sobota
+sobota	Saturday
+Sunday	niedziela
+niedziela	Sunday
+year	rok
+rok	year
+century, age	wiek
+wiek	century, age
+week	tydzień
+tydzień	week
+month	miesiąc
+miesiąc	month
+hour	godzina
+godzina	hour
+weekend	weekend
+weekend	weekend
+date	data
+data	date
+January	styczeń
+styczeń	January
+February	luty
+luty	February
+March	marzec
+marzec	March
+April	kwiecień
+kwiecień	April
+May	maj
+maj	May
+June	czerwiec
+czerwiec	June
+July	lipiec
+lipiec	July
+August	sierpień
+sierpień	August
+September	wrzesień
+wrzesień	September
+October	październik
+październik	October
+November	listopad
+listopad	November
+December	grudzień
+grudzień	December
+winter	zima
+zima	winter
+spring	wiosna
+wiosna	spring
+summer	lato
+lato	summer
+fall/autumn	jesień
+jesień	fall/autumn
+period	okres
+okres	period
+time, interval	pora
+pora	time, interval
+minute	minuta
+minuta	minute
+party	impreza
+impreza	party
+decade	dekada
+dekada	decade
+second	sekunda
+sekunda	second
+birthday	urodziny
+urodziny	birthday
+generation	pokolenie
+pokolenie	generation
+moment, bit	chwila
+chwila	moment, bit
+student	student
+student	student
+work	praca
+praca	work
+doctor, physician	lekarz
+lekarz	doctor, physician
+personnel, staff	personel
+personel	personnel, staff
+model	modelka
+modelka	model
+artist	artysta
+artysta	artist
+lawyer	prawnik
+prawnik	lawyer
+police	policja
+policja	police
+policeman	policjant
+policjant	policeman
+student, pupil	uczeń
+uczeń	student, pupil
+director, principal	dyrektor
+dyrektor	director, principal
+worker	robotnik
+robotnik	worker
+director	dyrektorka
+dyrektorka	director
+policewoman	policjantka
+policjantka	policewoman
+secretary	sekretarka
+sekretarka	secretary
+boss	szef
+szef	boss
+captain	kapitan
+kapitan	captain
+soldier	żołnierz
+żołnierz	soldier
+writer	pisarz
+pisarz	writer
+employee	pracownik
+pracownik	employee
+actor	aktor
+aktor	actor
+actress	aktorka
+aktorka	actress
+security guard	ochroniarz
+ochroniarz	security guard
+judge	sędzia
+sędzia	judge
+farmer	rolnik
+rolnik	farmer
+waiter	kelner
+kelner	waiter
+profession, occupation	zawód
+zawód	profession, occupation
+engineer	inżynier
+inżynier	engineer
+architect	architekt
+architekt	architect
+cook, chef	kucharz
+kucharz	cook, chef
+gentleman, man	pan
+pan	gentleman, man
+lady, woman	pani
+pani	lady, woman
+girlfriend, girl	dziewczyna
+dziewczyna	girlfriend, girl
+boyfriend, boy	chłopak
+chłopak	boyfriend, boy
+friend	przyjaciółka
+przyjaciółka	friend
+group	grupa
+grupa	group
+acquaintance	znajomy
+znajomy	acquaintance
+enemy	wróg
+wróg	enemy
+colleague	kolega
+kolega	colleague
+village, countryside	wieś
+wieś	village, countryside
+nation	naród
+naród	nation
+culture	kultura
+kultura	culture
+relationship, union	związek
+związek	relationship, union
+person	osoba
+osoba	person
+society	społeczeństwo
+społeczeństwo	society
+victim	ofiara
+ofiara	victim
+partner	partner
+partner	partner
+youth	młodzież
+młodzież	youth
+conference	konferencja
+konferencja	conference
+guest	gość
+gość	guest
+foundation	fundacja
+fundacja	foundation
+couple, pair	para
+para	couple, pair
+neighbor/neighbour	sąsiad
+sąsiad	neighbor/neighbour
+citizen	obywatel
+obywatel	citizen
+name	imię
+imię	name
+Adam	Adam
+Adam	Adam
+last name, surname	nazwisko
+nazwisko	last name, surname
+Julia	Julia
+Julia	Julia
+Jack	Jacek
+Jacek	Jack
+Martha	Marta
+Marta	Martha
+sypialnia	bedroom
+bedroom	sypialnia
+łazienka (k/c) (-/e)	bathroom
+bathroom	łazienka (k/c) (-/e)
+kuchnia	kitchen
+kitchen	kuchnia
+ogród (d/dź) (ó/o)	garden
+garden	ogród (d/dź) (ó/o)
+hotel	hotel
+hotel	hotel
+korytarz	corridor
+corridor	korytarz
+mieszkanie	apartment, flat
+apartment, flat	mieszkanie
+plaża	beach
+beach	plaża
+kościół (ł/l) (ó/o/e)	church
+church	kościół (ł/l) (ó/o/e)
+miasto (st/ść) (a/e)	city, town
+city, town	miasto (st/ść) (a/e)
+restauracja	restaurant
+restaurant	restauracja
+lotnisko	airport
+airport	lotnisko
+ulica	street
+street	ulica
+kraj	country, land
+country, land	kraj
+bank	bank
+bank	bank
+bar (r/rz)	bar
+bar	bar (r/rz)
+szpital	hospital
+hospital	szpital
+biuro (r/rz)	office
+office	biuro (r/rz)
+zamek (e/-)	castle
+castle	zamek (e/-)
+sklep	store, shop
+store, shop	sklep
+centrum	center/centre
+center/centre	centrum
+stacja	station
+station	stacja
+budynek (e/-)	building
+building	budynek (e/-)
+park	park
+park	park
+muzeum	museum
+museum	muzeum
+ławka (k/c) (-/e)	bench
+bench	ławka (k/c) (-/e)
+miejsce	place, site
+place, site	miejsce
+okolica	neighborhood/neighbourhood
+neighborhood/neighbourhood	okolica
+region (n/ń)	region
+region	region (n/ń)
+adres (s/ś)	address
+address	adres (s/ś)
+róg (ó/o)	corner
+corner	róg (ó/o)
+kino (n/ń)	cinema
+cinema	kino (n/ń)
+aleja (j/-)	alley, avenue
+alley, avenue	aleja (j/-)
+droga (g/dz) (o/ó)	road, way, path
+road, way, path	droga (g/dz) (o/ó)
+wieża	tower
+tower	wieża
+granica	border, frontier
+border, frontier	granica
+przód (d/dź) (ó/o/e)	front
+front	przód (d/dź) (ó/o/e)
+dzielnica	district
+district	dzielnica
+tył (ł/l)	back
+back	tył (ł/l)
+rynek (e/-)	marketplace, square
+marketplace, square	rynek (e/-)
+więzienie	jail, prison
+jail, prison	więzienie
+pałac	palace
+palace	pałac
+port (t/ć)	port
+port	port (t/ć)
+farma	farm
+farm	farma
+stolica	capital (city)
+capital (city)	stolica
+zoo	zoo
+zoo	zoo
+obszar (r/rz)	area
+area	obszar (r/rz)
+strona (n/ń)	side, page
+side, page	strona (n/ń)
+wschód (d/dź) (ó/o)	east
+east	wschód (d/dź) (ó/o)
+zachód (d/dź) (ó/o)	west
+west	zachód (d/dź) (ó/o)
+północ	midnight, north
+midnight, north	północ
+góra (r/rz)	top; mountain
+top; mountain	góra (r/rz)
+dół (ł/l) (ó/o)	bottom
+bottom	dół (ł/l) (ó/o)
+koleżanka (k/c) (-/e)	colleague
+colleague	koleżanka (k/c) (-/e)
+suma	sum
+sum	suma
+liczba	number
+number	liczba
+numer (r/rz)	number
+number	numer (r/rz)
+raz (z/ź)	time, case
+time, case	raz (z/ź)
+większość	majority
+majority	większość
+mniejszość	minority
+minority	mniejszość
+filiżanka (k/c) (-/e)	(tea)cup
+(tea)cup	filiżanka (k/c) (-/e)
+samochód (d/dź) (ó/o)	car
+car	samochód (d/dź) (ó/o)
+pociąg	train
+train	pociąg
+autobus (s/ś)	bus
+bus	autobus (s/ś)
+motor (r/rz)	motorcycle
+motorcycle	motor (r/rz)
+samolot (t/ć)	airplane
+airplane	samolot (t/ć)
+statek (e/-)	ship
+ship	statek (e/-)
+rower (r/rz)	bicycle
+bicycle	rower (r/rz)
+bilet (t/ć)	ticket
+ticket	bilet (t/ć)
+pojazd (zd/źdź) (a/e)	vehicle
+vehicle	pojazd (zd/źdź) (a/e)
+transport (t/ć)	transport
+transport	transport (t/ć)
+kierowca	driver
+driver	kierowca
+pasażer (r/rz)	passenger
+passenger	pasażer (r/rz)
+lot (t/ć)	flight
+flight	lot (t/ć)
+metro (r/rz)	metro, subway
+metro, subway	metro (r/rz)
+wakacje	vacation, holiday
+vacation, holiday	wakacje
+paszport (t/ć)	passport
+passport	paszport (t/ć)
+mapa	map
+map	mapa
+przewodnik (k/c)	guide
+guide	przewodnik (k/c)
+turysta (st/ść)	tourist
+tourist	turysta (st/ść)
+plecak	backpack
+backpack	plecak
+walizka (k/c) (-/e)	suitcase
+suitcase	walizka (k/c) (-/e)
+cel	destination, target, goal
+destination, target, goal	cel
+wycieczka (k/c) (-/e)	trip, tour
+trip, tour	wycieczka (k/c) (-/e)
+bagaż	luggage, baggage
+luggage, baggage	bagaż
+przygoda (d/dź)	adventure
+adventure	przygoda (d/dź)
+podróż	journey, travel
+journey, travel	podróż
+Warszawa	Warsaw
+Warsaw	Warszawa
+Polska (k/c)	Poland
+Poland	Polska (k/c)
+Włochy (ch/sz)	Italy
+Italy	Włochy (ch/sz)
+Niemcy (c/cz) (-/'e)	Germany
+Germany	Niemcy (c/cz) (-/'e)
+Francja	France
+France	Francja
+Europa	Europe
+Europe	Europa
+stan (n/ń)	state; condition
+state; condition	stan (n/ń)
+Brytania	Britain
+Britain	Brytania
+Amerykanin (n/ń)	American
+American	Amerykanin (n/ń)
+Niemka (k/c) (-/e)	German
+German	Niemka (k/c) (-/e)
+Brytyjczyk (k/c)	British
+British	Brytyjczyk (k/c)
+Polak (k/c)	Pole
+Pole	Polak (k/c)
+Francuz (z/ź)	French(man)
+French(man)	Francuz (z/ź)
+Brytyjka (k/c) (-/e)	British
+British	Brytyjka (k/c) (-/e)
+Amerykanka (k/c) (-/e)	American
+American	Amerykanka (k/c) (-/e)
+cukier (r/rz) ('e/-)	sugar
+sugar	cukier (r/rz) ('e/-)
+sól (ó/o)	salt
+salt	sól (ó/o)
+pieprz	pepper (black)
+pepper (black)	pieprz
+ziemniak	potato
+potato	ziemniak
+cebula	onion
+onion	cebula
+marchewka (k/c) (-/e)	carrot
+carrot	marchewka (k/c) (-/e)
+papryka (k/c)	pepper (bell)
+pepper (bell)	papryka (k/c)
+makaron (n/ń)	pasta
+pasta	makaron (n/ń)
+ciasto (st/ść) (a/e)	cake
+cake	ciasto (st/ść) (a/e)
+ryż	rice
+rice	ryż
+masło (sł/śl)	butter
+butter	masło (sł/śl)
+truskawka (k/c) (-/e)	strawberry
+strawberry	truskawka (k/c) (-/e)
+czekolada (d/dź)	chocolate
+chocolate	czekolada (d/dź)
+cytryna (n/ń)	lemon
+lemon	cytryna (n/ń)
+jogurt (t/ć)	yogurt
+yogurt	jogurt (t/ć)
+lody	ice cream
+ice cream	lody
+smak	taste, flavor/flavour
+taste, flavor/flavour	smak
+pomarańcza	orange
+orange	pomarańcza
+banan (n/ń)	banana
+banana	banan (n/ń)
+cukierek (e/-)	candy, sweet
+candy, sweet	cukierek (e/-)
+frytka (k/c) (-/e)	(French) fries
+(French) fries	frytka (k/c) (-/e)
+alkohol	alcohol
+alcohol	alkohol
+piwo	beer
+beer	piwo
+menu	menu
+menu	menu
+wieprzowina (n/ń)	pork
+pork	wieprzowina (n/ń)
+kurczak	chicken
+chicken	kurczak
+wołowina (n/ń)	beef
+beef	wołowina (n/ń)
+wegetarianin (n/ń)	vegetarian
+vegetarian	wegetarianin (n/ń)
+olej (j/-)	oil
+oil	olej (j/-)
+grzyb	mushroom
+mushroom	grzyb
+wegetarianka (k/c) (-/e)	vegetarian
+vegetarian	wegetarianka (k/c) (-/e)
+wilk	wolf
+wolf	wilk
+pingwin (n/ń)	penguin
+penguin	pingwin (n/ń)
+niedźwiedź	bear
+bear	niedźwiedź
+żółw	tortoise, turtle
+tortoise, turtle	żółw
+wąż (ą/ę)	snake
+snake	wąż (ą/ę)
+byk	bull
+bull	byk
+mucha (ch/sz)	fly
+fly	mucha (ch/sz)
+królik	rabbit
+rabbit	królik
+delfin (n/ń)	dolphin
+dolphin	delfin (n/ń)
+małpa	monkey
+monkey	małpa
+pszczoła (ł/l) (o/ó)	bee
+bee	pszczoła (ł/l) (o/ó)
+gęś	goose
+goose	gęś
+motyl	butterfly
+butterfly	motyl
+owca (-/'e)	sheep
+sheep	owca (-/'e)
+krowa (o/ó)	cow
+cow	krowa (o/ó)
+świnia	pig
+pig	świnia
+miłość	love
+love	miłość
+część	part, piece
+part, piece	część
+życie	life
+life	życie
+śmierć	death
+death	śmierć
+nadzieja (j/-)	hope
+hope	nadzieja (j/-)
+kształt (t/ć)	shape, form
+shape, form	kształt (t/ć)
+siła (ł/l)	strength, force
+strength, force	siła (ł/l)
+myśl	thought
+thought	myśl
+przypadek (e/-)	accident, instance, case
+accident, instance, case	przypadek (e/-)
+przyszłość	future
+future	przyszłość
+projekt (t/ć)	project, design, plan
+project, design, plan	projekt (t/ć)
+członek (e/-)	member
+member	członek (e/-)
+przeszłość	past
+past	przeszłość
+sposób (ó/o)	way, method
+way, method	sposób (ó/o)
+gra (r/rz) (-/'e)	game, play
+game, play	gra (r/rz) (-/'e)
+opis (s/ś)	description
+description	opis (s/ś)
+kontrola	control
+control	kontrola
+wina (n/ń)	fault, guilt
+fault, guilt	wina (n/ń)
+błąd (d/dź) (ą/ę)	error, mistake
+error, mistake	błąd (d/dź) (ą/ę)
+zmiana (n/ń)	change
+change	zmiana (n/ń)
+problem	problem
+problem	problem
+dźwięk	sound
+sound	dźwięk
+działanie	action, act
+action, act	działanie
+wartość	value
+value	wartość
+widok	view
+view	widok
+zawartość	contents, content
+contents, content	zawartość
+wada (d/dź)	disadvantage, flaw
+disadvantage, flaw	wada (d/dź)
+zaleta (t/ć)	advantage, benefit
+advantage, benefit	zaleta (t/ć)
+ochrona (n/ń)	security, protection
+security, protection	ochrona (n/ń)
+produkcja	production
+production	produkcja
+wynik	result, score
+result, score	wynik
+opcja	option
+option	opcja
+rozwiązanie	solution, resolution
+solution, resolution	rozwiązanie
+ilość	quantity
+quantity	ilość
+jakość	quality
+quality	jakość
+efekt (t/ć)	effect, impact, result
+effect, impact, result	efekt (t/ć)
+wolność	freedom, liberty
+freedom, liberty	wolność
+kolej (j/-)	turn
+turn	kolej (j/-)
+szansa (s/ś)	chance, opportunity
+chance, opportunity	szansa (s/ś)
+nagroda (d/dź) (o/ó)	prize, reward, award
+prize, reward, award	nagroda (d/dź) (o/ó)
+zasada (d/dź)	rule, principle
+rule, principle	zasada (d/dź)
+sprawa	case, issue, affair
+case, issue, affair	sprawa
+wybór (r/rz) (ó/o)	choice
+choice	wybór (r/rz) (ó/o)
+rola	role
+role	rola
+przyczyna (n/ń)	cause, reason
+cause, reason	przyczyna (n/ń)
+porażka (k/c) (-/e)	failure, loss, defeat
+failure, loss, defeat	porażka (k/c) (-/e)
+możliwość	possibility, option
+possibility, option	możliwość
+sukces (s/ś)	success
+success	sukces (s/ś)
+ryzyko	risk
+risk	ryzyko
+nazwa	name
+name	nazwa
+władza	power, authority
+power, authority	władza
+odpoczynek (e/-)	rest
+rest	odpoczynek (e/-)
+pomysł (sł/śl)	idea
+idea	pomysł (sł/śl)
+reszta (t/ć)	rest
+rest	reszta (t/ć)
+doświadczenie	experience
+experience	doświadczenie
+rada (d/dź)	advice, councel
+advice, councel	rada (d/dź)
+temat (t/ć)	topic, subject
+topic, subject	temat (t/ć)
+rodzaj	kind, type
+kind, type	rodzaj
+marzenie	dream
+dream	marzenie
+kłamstwo	lie
+lie	kłamstwo
+początek (e/-)	beginning, start
+beginning, start	początek (e/-)
+prawda (d/dź)	truth
+truth	prawda (d/dź)
+koniec (e/-)	end, finish
+end, finish	koniec (e/-)
+sytuacja	situation
+situation	sytuacja
+historia	history
+history	historia
+nauczyciel	teacher
+teacher	nauczyciel
+lekcja	lesson
+lesson	lekcja
+studia	university, studies
+university, studies	studia
+edukacja	education
+education	edukacja
+biblioteka (k/c)	library
+library	biblioteka (k/c)
+klasa (s/ś)	class, classroom, grade
+class, classroom, grade	klasa (s/ś)
+test (st/ść)	test, exam
+test, exam	test (st/ść)
+kurs (s/ś)	course
+course	kurs (s/ś)
+przykład (d/dź)	example
+example	przykład (d/dź)
+ocena (n/ń)	grade, mark
+grade, mark	ocena (n/ń)
+ćwiczenie	exercise
+exercise	ćwiczenie
+prezentacja	presentation
+presentation	prezentacja
+długopis (s/ś)	pen
+pen	długopis (s/ś)
+rozdział (ł/l)	chapter, unit
+chapter, unit	rozdział (ł/l)
+ołówek (e/-)	pencil
+pencil	ołówek (e/-)
+tytuł (ł/l)	title
+title	tytuł (ł/l)
+słowo (o/ó)	word
+word	słowo (o/ó)
+wiedza	knowledge
+knowledge	wiedza
+wypracowanie	essay, composition
+essay, composition	wypracowanie
+wykład (d/dź)	lecture
+lecture	wykład (d/dź)
+uniwersytet (t/ć)	university
+university	uniwersytet (t/ć)
+profesor (r/rz)	professor
+professor	profesor (r/rz)
+egzamin (n/ń)	exam, examination
+exam, examination	egzamin (n/ń)
+semestr (r/rz)	semester, term
+semester, term	semestr (r/rz)
+tekst (st/ść)	text
+text	tekst (st/ść)
+gimnazjum	intermediate school
+intermediate school	gimnazjum
+słownik	dictionary
+dictionary	słownik
+przedszkole	kindergarten
+kindergarten	przedszkole
+dokument (t/ć)	document
+document	dokument (t/ć)
+liceum	high school
+high school	liceum
+notatka (k/c) (-/e)	note
+note	notatka (k/c) (-/e)
+pacjent (t/ć)	patient
+patient	pacjent (t/ć)
+leczenie	treatment
+treatment	leczenie
+opieka (k/c)	care, protection
+care, protection	opieka (k/c)
+pomoc	help, aid, assistance
+help, aid, assistance	pomoc
+zdrowie	health
+health	zdrowie
+głowa (o/ó)	head
+head	głowa (o/ó)
+oko (k/cz)	eye
+eye	oko (k/cz)
+ucho (ch/sz)	ear
+ear	ucho (ch/sz)
+twarz	face
+face	twarz
+nos (s/ś)	nose
+nose	nos (s/ś)
+usta	mouth
+mouth	usta
+ręka (k/c) (ę/ą)	hand, arm
+hand, arm	ręka (k/c) (ę/ą)
+serce	heart
+heart	serce
+noga (g/dz) (o/ó)	leg
+leg	noga (g/dz) (o/ó)
+ciało (ł/l) (a/e)	body
+body	ciało (ł/l) (a/e)
+choroba (o/ó)	illness, disease
+illness, disease	choroba (o/ó)
+mózg	brain
+brain	mózg
+plecy	back
+back	plecy
+stopa (o/ó)	foot
+foot	stopa (o/ó)
+dieta (t/ć)	diet
+diet	dieta (t/ć)
+krew (e/-)	blood
+blood	krew (e/-)
+operacja	surgery, operation
+surgery, operation	operacja
+karetka (k/c) (-/e)	ambulance
+ambulance	karetka (k/c) (-/e)
+lek	medicine
+medicine	lek
+wypadek (e/-)	accident
+accident	wypadek (e/-)
+ból	pain
+pain	ból
+wirus (s/ś)	virus
+virus	wirus (s/ś)
+brzuch	stomach, belly
+stomach, belly	brzuch
+włos (s/ś)	hair
+hair	włos (s/ś)
+szyja (j/-)	neck
+neck	szyja (j/-)
+skóra (r/rz)	skin
+skin	skóra (r/rz)
+pielęgniarka (k/c) (-/e)	nurse
+nurse	pielęgniarka (k/c) (-/e)
+palec (e/-)	finger, toe
+finger, toe	palec (e/-)
+wizyta (t/ć)	appointment, visit
+appointment, visit	wizyta (t/ć)
+kwiat (t/ć) (a/e)	flower
+flower	kwiat (t/ć) (a/e)
+trawa	grass
+grass	trawa
+świat (t/ć) (a/e)	world
+world	świat (t/ć) (a/e)
+niebo	sky, heaven
+sky, heaven	niebo
+drzewo	tree
+tree	drzewo
+las (s/ś) (a/e)	forest
+forest	las (s/ś) (a/e)
+słońce	sun
+sun	słońce
+chmura (r/rz)	cloud
+cloud	chmura (r/rz)
+deszcz	rain
+rain	deszcz
+wiatr (r/rz) (a/e)	wind
+wind	wiatr (r/rz) (a/e)
+tęcza	rainbow
+rainbow	tęcza
+śnieg	snow
+snow	śnieg
+burza	storm
+storm	burza
+przyroda (d/dź)	nature
+nature	przyroda (d/dź)
+pogoda (d/dź) (o/ó)	weather
+weather	pogoda (d/dź) (o/ó)
+ogień ('e/-)	fire
+fire	ogień ('e/-)
+jezioro (r/rz)	lake
+lake	jezioro (r/rz)
+morze (o/ó)	sea
+sea	morze (o/ó)
+rzeka (k/c)	river
+river	rzeka (k/c)
+światło (ł/l) (a/e) (-/e)	light
+light	światło (ł/l) (a/e) (-/e)
+księżyc	moon
+moon	księżyc
+wyspa	island
+island	wyspa
+wszechświat (t/ć) (a/e)	universe
+universe	wszechświat (t/ć) (a/e)
+ziemia	earth, land, ground
+earth, land, ground	ziemia
+planeta (t/ć)	planet
+planet	planeta (t/ć)
+gwiazda (zd/źdź) (a/e)	star
+star	gwiazda (zd/źdź) (a/e)
+wybrzeże	coast
+coast	wybrzeże
+klimat (t/ć)	climate
+climate	klimat (t/ć)
+roślina (n/ń)	plant
