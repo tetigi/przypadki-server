@@ -19,10 +19,10 @@ data class CaseResponse(
 
 object Words {
 
-    val englishWords: Set<String> =
+    private val englishWords: Set<String> =
         this.javaClass.getResource("/english-words.txt").readText().lines().map { it.trim() }.toSet()
 
-    val ankiNouns: Array<String> =
+    private val ankiNouns: Array<String> =
         this.javaClass.getResource("/nouns.txt").readText()
             .lines()
             .flatMap { it.split("\t") }
@@ -31,7 +31,7 @@ object Words {
             .toSet()
             .toTypedArray()
 
-    val validNouns: Array<String> = ankiNouns.filter { englishWords.contains(it) }.toTypedArray()
+    private val validNouns: Array<String> = ankiNouns.filter { englishWords.contains(it) }.toTypedArray()
 
     private val adjectives: List<String> = listOf(
         "blue",
@@ -90,7 +90,7 @@ object Words {
     )
 
     fun randomPairing(): String =
-        "${adjectives[Random.nextInt(adjectives.size)]} ${ankiNouns[Random.nextInt(ankiNouns.size)]}"
+        "${adjectives[Random.nextInt(adjectives.size)]} ${validNouns[Random.nextInt(validNouns.size)]}"
 }
 
 enum class Case(val template: (Plurality, String) -> String) {
